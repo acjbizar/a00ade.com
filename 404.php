@@ -11,8 +11,8 @@ header('Status: 404 Not Found');
 <meta property="fb:app_id" content="449320888508627">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <title>404</title>
-<link rel="apple-touch-icon-precomposed" href="http://a00ade.com/apple-touch-icon-precomposed.png">
-<link rel="author" href="http://alexanderchristiaanjacob.com/">
+<link rel="apple-touch-icon-precomposed" href="https://a00ade.com/apple-touch-icon-precomposed.png">
+<link rel="author" href="https://alexanderchristiaanjacob.com/">
 <link rel="shortcut icon" href="favicon.ico">
 <body bgcolor="alexander" text="alexander">
 <h1>404</h1>
