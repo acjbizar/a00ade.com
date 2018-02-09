@@ -1,0 +1,7 @@
+
+AddType text/cache-manifest .appcache .manifest
+
+ErrorDocument 404 /404.php
+
+Options -Indexes +MultiViews
+
