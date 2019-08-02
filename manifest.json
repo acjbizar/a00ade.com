@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "version": "20190802",
+    "name": "#A00ADE",
+    "default_locale": "en",
+    "description": "My (background) color. No, seriously: view source.",
+    "author": "Alexander Christiaan Jacob",
+    "theme_color": "#a00ade",
+    "homepage_url": "https://a00ade.com/",
+    "start_url": "https://a00ade.com/",
+    "icons": [
+        {
+            "src": "https://a00ade.com/apple-touch-icon-precomposed.png"
+        }
+    ],
+    "display": "fullscreen"
+}

@@ -1,4 +1,4 @@
-sitemap: http://a00ade.com/sitemap.xml
+Sitemap: https://a00ade.com/sitemap.xml
 
 User-Agent: *
 
